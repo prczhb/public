@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+
+/.idea
+*/.idea
+
+/bulid
+*/build
+
+*/.externalNativeBuild/
+.DS_Store
+/captures
+
+.ios
+.android
+*.flutter-plugins-dependencies
