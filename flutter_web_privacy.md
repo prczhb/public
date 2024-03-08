@@ -1,7 +1,3 @@
-There's nothing here
-
-
-
 flutter_web 隐私权政策
 
 本政策自2024年01月01日起施行
