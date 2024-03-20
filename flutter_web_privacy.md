@@ -1,37 +1,36 @@
-flutter_web 隐私权政策
+flutter_web Privacy Policy
 
-本政策自2024年01月01日起施行
+This policy will come into force on January 1, 2024
 
-flutter_web 尊重并保护所有用户的个人隐私权，为此我们向大众公开这份隐私权政策。您使用该软件即代表您以阅读并同意了这份条款，如果您不同意这份条款请立即停止使用并卸载本软件。
+flutter_web We respect and protect the privacy of all users, and we have made this Privacy Policy available to the public. Your use of the Software constitutes that you have read and agree to these Terms and Conditions and if you do not agree to these Terms and Conditions please immediately stop using and uninstall the Software.
 
-信息收集
+Information Collection
 
-本软件自身不会发送任何信息到开发者，但是您下载软件的应用市场（如 Google Play）可能会收集关于应用运行状态的相关信息并提供给开发者。有关这些信息，请阅读您使用的应用市场所提供的隐私权政策。
+The software itself does not send any information to the developer, but the app marketplace where you download the software (e.g., Google Play) may collect information about the running status of the app and provide it to the developer. For this information, please read the privacy policy provided by the app market you use.
 
-当您向开发者反馈本软件运行中的错误时，开发者可能会要求您提供软件以及系统的日志以帮助确认问题的原因。因日志中可能包括敏感信息，此类信息只能由您自己操作发送。我们不对任何传输服务的安全性和隐私性做任何明示或暗示的担保，请您在传送相关信息时选择可以您自身可以接受的方式。
+When you report errors in the operation of the Software to the Developer, the Developer may ask you to provide the Software and system logs to help confirm the cause of the problem. Because the logs may contain sensitive information, such information can only be sent by you. We do not make any express or implied warranties about the security and privacy of any transmission service, and please choose a method that is acceptable to you when transmitting relevant information.
 
-信息共享
+Information Sharing
 
-我们不会向任何第三方出售收集到的用户数据。我们可能向外部开发者提供信息以协助软件的开发，但是在提供信息之前我们会传达相关保密义务并确定其可以遵守。
+We do not sell the user data we collect to any third party. We may provide information to external developers to assist in the development of the software, but we will communicate the confidentiality obligations and determine that they can be complied with before providing the information.
 
-信息存留
+Information Retention
 
-除非有相关法律规定，我们会在 30 天内清除不需要继续使用的用户数据，或将统计数据整合为无法识别单个用户的综合报告。
+Unless required by law, we purge user data that is no longer needed within 30 days, or aggregate statistics into aggregate reports that do not identify individual users.
 
-信息泄露
+Information breaches
 
-我们会使用合理的技术和安全手段尽力保护用户的数据，但是无法保证数据的绝对安全。如果我们确认数据发生了泄露，我们会在 7 天内通过可用的渠道通知用户。您同意不向我们追责任何因不可抗力而造成的损失。
+We will use reasonable technical and security measures to try to protect your data, but we cannot guarantee the absolute security of your data. If we confirm that a data breach has occurred, we will notify the user within 7 days through the available channels. You agree not to hold us liable for any damages caused by force majeure.
 
-儿童隐私
+Children's Privacy
 
-这些服务不针对 13 岁以下的任何人。我们不会故意收集 13 岁以下儿童的个人身份信息。 如果发现 13 岁以下的儿童向我们提供了个人信息，我们会立即从我们的服务器中删除该信息。 如果您是父母或监护人，并且您知道您的孩子向我们提供了个人信息，请尽快与我们联系，以便我们能够采取必要的行动。
+These services are not directed to anyone under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13. If we find that a child under the age of 13 has provided us with personal information, we will immediately delete that information from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us as soon as possible so that we can take the necessary action.
 
-条款修改
+Modification of Terms
 
-我们保留修改这份隐私权政策的权利，但是会确保在更新条款前至少 30 天通过我们的可用渠道和应用内提示来通知用户。在新条款生效后继续使用软件即表示您同意修改后的隐私权政策。
+We reserve the right to modify this Privacy Policy, but will ensure that users are notified at least 30 days prior to the update through our available channels and in-app prompts. By continuing to use the Software after the new Terms become effective, you agree to the modified Privacy Policy.
 
-联系我们
+Contact us
 
-如果您对我的隐私政策有任何疑问或建议，请随时通过 prczhb@gmail.com 与我们联系。
-
+If you have any questions or suggestions about my Privacy Policy, please feel free to contact us at prczhb@gmail.com.
 
